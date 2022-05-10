@@ -1,0 +1,14 @@
+micronaut:
+  application:
+    name: helloJugParisAtAgorapulse
+console:
+  enabled: true
+  addresses:
+  - /127.0.0.1
+  - /0:0:0:0:0:0:0:1
+  header-name: X-Console-Verify
+  header-value: 5d4d0252-503c-4fe2-9bba-8a8bcab3dbd7
+netty:
+  default:
+    allocator:
+      max-order: 3

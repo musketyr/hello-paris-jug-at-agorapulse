@@ -1,0 +1,5 @@
+{
+  "author": "vlad",
+  "body": "Hello, Paris!",
+  "created": "${json-unit.matches:isoDate}"
+}

@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: hello.jug.paris.at.agorapulse
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, gru-http, http-client, jackson-databind, java, java-application, junit, logback, micronaut-build, micronaut-console, netty-server, readme, shade, yaml]
